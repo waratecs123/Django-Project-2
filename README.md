@@ -1,4 +1,4 @@
-# School Management System - MБОУ СОШ №30 г. Уссурийска
+# School Management System
 
 ![Django](https://img.shields.io/badge/Django-5.2-green)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
@@ -6,7 +6,7 @@
 
 A comprehensive web application for managing school operations, staff, news, and communications for School №30 in Ussuriysk.
 
-## 🌟 Features
+## Features
 
 - **Staff Management**: Detailed profiles of teachers and staff members
 - **News System**: Categorized news and announcements
@@ -16,7 +16,7 @@ A comprehensive web application for managing school operations, staff, news, and
 - **Feedback System**: Contact form for parents and visitors
 - **Responsive Design**: Mobile-friendly interface
 
-## 🏫 School Sections
+## School Sections
 
 ### Main Navigation
 - About the School
@@ -28,7 +28,7 @@ A comprehensive web application for managing school operations, staff, news, and
 - Documents
 - Feedback Form
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Backend**: Django 5.2
 - **Frontend**: HTML, CSS
@@ -37,7 +37,7 @@ A comprehensive web application for managing school operations, staff, news, and
   - django-filters for news categorization
   - Pillow for image handling
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
