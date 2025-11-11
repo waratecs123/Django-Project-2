@@ -1,8 +1,5 @@
 # Django-Project-2: School Management System for School №30
 
-![School Management System Banner](https://via.placeholder.com/1200x400?text=School+Management+System)  
-*(Placeholder image for the project banner. Replace with your actual screenshot or logo for a more professional look. Feel free to use tools like Canva or Photoshop to create a custom banner with educational themes, such as school buildings or student icons.)*
-
 ## Overview
 
 **Django-Project-2** is a full-stack web application built using the Django framework, designed as a comprehensive management system for School №30 in Ussuriysk. This project serves as a practical tool for handling school operations, including staff profiles, news announcements, job vacancies, document storage, sponsor information, and user feedback. It can be used as a portfolio piece, a template for similar educational websites, or deployed for real-world use by schools.
